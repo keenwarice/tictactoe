@@ -11,6 +11,6 @@ This is a simple two-player **Tic Tac Toe** game built using Python's turtle mod
 2. Make sure Python is installed
 3. Run the script using:
    ```
-   python tic_tac_toe.py
+   python tictactoe.py
    ```
 4. Click on the grid to make your moves
